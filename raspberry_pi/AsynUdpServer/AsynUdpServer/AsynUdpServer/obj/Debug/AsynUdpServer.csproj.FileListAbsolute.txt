@@ -1,0 +1,7 @@
+D:\Visual Studio-lvyang\AsynUdpServer\AsynUdpServer\bin\Debug\AsynUdpServer.exe
+D:\Visual Studio-lvyang\AsynUdpServer\AsynUdpServer\bin\Debug\AsynUdpServer.pdb
+D:\Visual Studio-lvyang\AsynUdpServer\AsynUdpServer\obj\Debug\AsynUdpServer.csprojResolveAssemblyReference.cache
+D:\Visual Studio-lvyang\AsynUdpServer\AsynUdpServer\obj\Debug\AsynUdpServer.exe
+D:\Visual Studio-lvyang\AsynUdpServer\AsynUdpServer\obj\Debug\AsynUdpServer.pdb
+G:\实验室资料\资料留存（吕炀）\putty_0.63cn3\树莓派 备份\AsynUdpServer\AsynUdpServer\AsynUdpServer\obj\Debug\AsynUdpServer.exe
+G:\实验室资料\资料留存（吕炀）\putty_0.63cn3\树莓派 备份\AsynUdpServer\AsynUdpServer\AsynUdpServer\obj\Debug\AsynUdpServer.pdb

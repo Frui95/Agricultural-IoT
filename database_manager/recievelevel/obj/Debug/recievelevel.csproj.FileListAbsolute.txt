@@ -1,0 +1,91 @@
+J:\资料\城市排水备份\recievelevel\recievelevel\bin\Debug\recievelevel.exe.config
+J:\资料\城市排水备份\recievelevel\recievelevel\bin\Debug\recievelevel.exe.manifest
+J:\资料\城市排水备份\recievelevel\recievelevel\bin\Debug\recievelevel.application
+J:\资料\城市排水备份\recievelevel\recievelevel\bin\Debug\recievelevel.exe
+J:\资料\城市排水备份\recievelevel\recievelevel\bin\Debug\recievelevel.pdb
+J:\资料\城市排水备份\recievelevel\recievelevel\obj\Debug\recievelevel.csprojResolveAssemblyReference.cache
+J:\资料\城市排水备份\recievelevel\recievelevel\obj\Debug\recievelevel.Form1.resources
+J:\资料\城市排水备份\recievelevel\recievelevel\obj\Debug\recievelevel.Properties.Resources.resources
+J:\资料\城市排水备份\recievelevel\recievelevel\obj\Debug\recievelevel.csproj.GenerateResource.Cache
+J:\资料\城市排水备份\recievelevel\recievelevel\obj\Debug\recievelevel.exe.manifest
+J:\资料\城市排水备份\recievelevel\recievelevel\obj\Debug\recievelevel.application
+J:\资料\城市排水备份\recievelevel\recievelevel\obj\Debug\recievelevel.exe
+J:\资料\城市排水备份\recievelevel\recievelevel\obj\Debug\recievelevel.pdb
+C:\Users\ANDY\Desktop\排水监控接受程序\recievelevel\bin\Debug\recievelevel.exe.config
+C:\Users\ANDY\Desktop\排水监控接受程序\recievelevel\obj\Debug\recievelevel.exe
+C:\Users\ANDY\Desktop\排水监控接受程序\recievelevel\obj\Debug\recievelevel.pdb
+C:\Users\ANDY\Desktop\排水监控接受程序\recievelevel\obj\Debug\recievelevel.csprojResolveAssemblyReference.cache
+C:\Users\ANDY\Desktop\排水监控接受程序\recievelevel\obj\Debug\recievelevel.Form1.resources
+C:\Users\ANDY\Desktop\排水监控接受程序\recievelevel\obj\Debug\recievelevel.Properties.Resources.resources
+C:\Users\ANDY\Desktop\排水监控接受程序\recievelevel\obj\Debug\recievelevel.csproj.GenerateResource.Cache
+C:\Users\ANDY\Desktop\排水监控接受程序\recievelevel\bin\Debug\recievelevel.exe.manifest
+C:\Users\ANDY\Desktop\排水监控接受程序\recievelevel\bin\Debug\recievelevel.application
+C:\Users\ANDY\Desktop\排水监控接受程序\recievelevel\bin\Debug\recievelevel.exe
+C:\Users\ANDY\Desktop\排水监控接受程序\recievelevel\bin\Debug\recievelevel.pdb
+C:\Users\ANDY\Desktop\排水监控接受程序\recievelevel\obj\Debug\recievelevel.exe.manifest
+C:\Users\ANDY\Desktop\排水监控接受程序\recievelevel\obj\Debug\recievelevel.application
+C:\Users\ANDY\Desktop\加了外部log文件\排水监控接受程序\recievelevel\bin\Debug\recievelevel.exe.config
+C:\Users\ANDY\Desktop\加了外部log文件\排水监控接受程序\recievelevel\obj\Debug\recievelevel.exe
+C:\Users\ANDY\Desktop\加了外部log文件\排水监控接受程序\recievelevel\obj\Debug\recievelevel.pdb
+C:\Users\ANDY\Desktop\加了外部log文件\排水监控接受程序\recievelevel\bin\Debug\recievelevel.exe.manifest
+C:\Users\ANDY\Desktop\加了外部log文件\排水监控接受程序\recievelevel\bin\Debug\recievelevel.application
+C:\Users\ANDY\Desktop\加了外部log文件\排水监控接受程序\recievelevel\bin\Debug\recievelevel.exe
+C:\Users\ANDY\Desktop\加了外部log文件\排水监控接受程序\recievelevel\bin\Debug\recievelevel.pdb
+C:\Users\ANDY\Desktop\加了外部log文件\排水监控接受程序\recievelevel\obj\Debug\recievelevel.csprojResolveAssemblyReference.cache
+C:\Users\ANDY\Desktop\加了外部log文件\排水监控接受程序\recievelevel\obj\Debug\recievelevel.Form1.resources
+C:\Users\ANDY\Desktop\加了外部log文件\排水监控接受程序\recievelevel\obj\Debug\recievelevel.Properties.Resources.resources
+C:\Users\ANDY\Desktop\加了外部log文件\排水监控接受程序\recievelevel\obj\Debug\recievelevel.csproj.GenerateResource.Cache
+C:\Users\ANDY\Desktop\加了外部log文件\排水监控接受程序\recievelevel\obj\Debug\recievelevel.exe.manifest
+C:\Users\ANDY\Desktop\加了外部log文件\排水监控接受程序\recievelevel\obj\Debug\recievelevel.application
+C:\Users\LiLin\Desktop\排水监控接受程序8.2611\recievelevel\bin\Debug\recievelevel.exe.config
+C:\Users\LiLin\Desktop\排水监控接受程序8.2611\recievelevel\obj\Debug\recievelevel.exe
+C:\Users\LiLin\Desktop\排水监控接受程序8.2611\recievelevel\obj\Debug\recievelevel.pdb
+C:\Users\LiLin\Desktop\排水监控接受程序8.2611\recievelevel\bin\Debug\recievelevel.exe.manifest
+C:\Users\LiLin\Desktop\排水监控接受程序8.2611\recievelevel\bin\Debug\recievelevel.application
+C:\Users\LiLin\Desktop\排水监控接受程序8.2611\recievelevel\bin\Debug\recievelevel.exe
+C:\Users\LiLin\Desktop\排水监控接受程序8.2611\recievelevel\bin\Debug\recievelevel.pdb
+C:\Users\LiLin\Desktop\排水监控接受程序8.2611\recievelevel\obj\Debug\recievelevel.csprojResolveAssemblyReference.cache
+C:\Users\LiLin\Desktop\排水监控接受程序8.2611\recievelevel\obj\Debug\recievelevel.Form1.resources
+C:\Users\LiLin\Desktop\排水监控接受程序8.2611\recievelevel\obj\Debug\recievelevel.Properties.Resources.resources
+C:\Users\LiLin\Desktop\排水监控接受程序8.2611\recievelevel\obj\Debug\recievelevel.csproj.GenerateResource.Cache
+C:\Users\LiLin\Desktop\排水监控接受程序8.2611\recievelevel\obj\Debug\recievelevel.exe.manifest
+C:\Users\LiLin\Desktop\排水监控接受程序8.2611\recievelevel\obj\Debug\recievelevel.application
+D:\A-STUDY\资料文档 C#\数据传输和网站程序\接收程序\排水监控接受程序8.2611\recievelevel\bin\Debug\recievelevel.exe.config
+D:\A-STUDY\资料文档 C#\数据传输和网站程序\接收程序\排水监控接受程序8.2611\recievelevel\obj\Debug\recievelevel.exe
+D:\A-STUDY\资料文档 C#\数据传输和网站程序\接收程序\排水监控接受程序8.2611\recievelevel\obj\Debug\recievelevel.pdb
+D:\A-STUDY\资料文档 C#\数据传输和网站程序\接收程序\排水监控接受程序8.2611\recievelevel\bin\Debug\recievelevel.exe.manifest
+D:\A-STUDY\资料文档 C#\数据传输和网站程序\接收程序\排水监控接受程序8.2611\recievelevel\bin\Debug\recievelevel.application
+D:\A-STUDY\资料文档 C#\数据传输和网站程序\接收程序\排水监控接受程序8.2611\recievelevel\bin\Debug\recievelevel.exe
+D:\A-STUDY\资料文档 C#\数据传输和网站程序\接收程序\排水监控接受程序8.2611\recievelevel\bin\Debug\recievelevel.pdb
+D:\A-STUDY\资料文档 C#\数据传输和网站程序\接收程序\排水监控接受程序8.2611\recievelevel\obj\Debug\recievelevel.csprojResolveAssemblyReference.cache
+D:\A-STUDY\资料文档 C#\数据传输和网站程序\接收程序\排水监控接受程序8.2611\recievelevel\obj\Debug\recievelevel.Form1.resources
+D:\A-STUDY\资料文档 C#\数据传输和网站程序\接收程序\排水监控接受程序8.2611\recievelevel\obj\Debug\recievelevel.Properties.Resources.resources
+D:\A-STUDY\资料文档 C#\数据传输和网站程序\接收程序\排水监控接受程序8.2611\recievelevel\obj\Debug\recievelevel.csproj.GenerateResource.Cache
+D:\A-STUDY\资料文档 C#\数据传输和网站程序\接收程序\排水监控接受程序8.2611\recievelevel\obj\Debug\recievelevel.exe.manifest
+D:\A-STUDY\资料文档 C#\数据传输和网站程序\接收程序\排水监控接受程序8.2611\recievelevel\obj\Debug\recievelevel.application
+D:\A-STUDY\资料文档 C#\数据传输和网站程序\接收程序\排水监控接受程序试验品转温室\recievelevel\bin\Debug\recievelevel.exe.config
+D:\A-STUDY\资料文档 C#\数据传输和网站程序\接收程序\排水监控接受程序试验品转温室\recievelevel\obj\Debug\recievelevel.exe
+D:\A-STUDY\资料文档 C#\数据传输和网站程序\接收程序\排水监控接受程序试验品转温室\recievelevel\obj\Debug\recievelevel.pdb
+D:\A-STUDY\资料文档 C#\数据传输和网站程序\接收程序\排水监控接受程序试验品转温室\recievelevel\bin\Debug\recievelevel.exe.manifest
+D:\A-STUDY\资料文档 C#\数据传输和网站程序\接收程序\排水监控接受程序试验品转温室\recievelevel\bin\Debug\recievelevel.application
+D:\A-STUDY\资料文档 C#\数据传输和网站程序\接收程序\排水监控接受程序试验品转温室\recievelevel\bin\Debug\recievelevel.exe
+D:\A-STUDY\资料文档 C#\数据传输和网站程序\接收程序\排水监控接受程序试验品转温室\recievelevel\bin\Debug\recievelevel.pdb
+D:\A-STUDY\资料文档 C#\数据传输和网站程序\接收程序\排水监控接受程序试验品转温室\recievelevel\obj\Debug\recievelevel.Form1.resources
+D:\A-STUDY\资料文档 C#\数据传输和网站程序\接收程序\排水监控接受程序试验品转温室\recievelevel\obj\Debug\recievelevel.Properties.Resources.resources
+D:\A-STUDY\资料文档 C#\数据传输和网站程序\接收程序\排水监控接受程序试验品转温室\recievelevel\obj\Debug\recievelevel.csproj.GenerateResource.Cache
+D:\A-STUDY\资料文档 C#\数据传输和网站程序\接收程序\排水监控接受程序试验品转温室\recievelevel\obj\Debug\recievelevel.exe.manifest
+D:\A-STUDY\资料文档 C#\数据传输和网站程序\接收程序\排水监控接受程序试验品转温室\recievelevel\obj\Debug\recievelevel.application
+D:\A-STUDY\资料文档 C#\数据传输和网站程序\接收程序\排水监控接受程序试验品转温室\recievelevel\obj\Debug\recievelevel.csprojResolveAssemblyReference.cache
+D:\A-STUDY\资料文档 C#\数据传输和网站程序\排水监控接受程序试验品转温室test\recievelevel\bin\Debug\recievelevel.exe.config
+D:\A-STUDY\资料文档 C#\数据传输和网站程序\排水监控接受程序试验品转温室test\recievelevel\obj\Debug\recievelevel.exe
+D:\A-STUDY\资料文档 C#\数据传输和网站程序\排水监控接受程序试验品转温室test\recievelevel\obj\Debug\recievelevel.pdb
+D:\A-STUDY\资料文档 C#\数据传输和网站程序\排水监控接受程序试验品转温室test\recievelevel\bin\Debug\recievelevel.exe.manifest
+D:\A-STUDY\资料文档 C#\数据传输和网站程序\排水监控接受程序试验品转温室test\recievelevel\bin\Debug\recievelevel.application
+D:\A-STUDY\资料文档 C#\数据传输和网站程序\排水监控接受程序试验品转温室test\recievelevel\bin\Debug\recievelevel.exe
+D:\A-STUDY\资料文档 C#\数据传输和网站程序\排水监控接受程序试验品转温室test\recievelevel\bin\Debug\recievelevel.pdb
+D:\A-STUDY\资料文档 C#\数据传输和网站程序\排水监控接受程序试验品转温室test\recievelevel\obj\Debug\recievelevel.csprojResolveAssemblyReference.cache
+D:\A-STUDY\资料文档 C#\数据传输和网站程序\排水监控接受程序试验品转温室test\recievelevel\obj\Debug\recievelevel.Form1.resources
+D:\A-STUDY\资料文档 C#\数据传输和网站程序\排水监控接受程序试验品转温室test\recievelevel\obj\Debug\recievelevel.Properties.Resources.resources
+D:\A-STUDY\资料文档 C#\数据传输和网站程序\排水监控接受程序试验品转温室test\recievelevel\obj\Debug\recievelevel.csproj.GenerateResource.Cache
+D:\A-STUDY\资料文档 C#\数据传输和网站程序\排水监控接受程序试验品转温室test\recievelevel\obj\Debug\recievelevel.exe.manifest
+D:\A-STUDY\资料文档 C#\数据传输和网站程序\排水监控接受程序试验品转温室test\recievelevel\obj\Debug\recievelevel.application

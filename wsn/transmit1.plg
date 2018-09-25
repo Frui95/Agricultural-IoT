@@ -1,0 +1,32 @@
+<html>
+<body>
+<pre>
+<h1>礦ision Build Log</h1>
+<h2>Project:</h2>
+G:\a学习资料\资料留存（侯瑞师兄）\交大温室程序原版备份\transmit原版备份\transmit2.uvproj
+Project File Date:  01/09/2017
+
+<h2>Output:</h2>
+Build target 'Target 1'
+compiling main.c...
+linking...
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?SENDADC2?MAIN
+Program Size: data=87.2 xdata=0 code=1714
+creating hex file from "transmit1"...
+"transmit1" - 0 Error(s), 1 Warning(s).
+Load "G:\\a学习资料\\资料留存（侯瑞师兄）\\交大温室程序原版备份\\transmit原版备份\\transmit1" 
+Flash Erase Done.
+Flash Image Update Complete. 
+Beginning programming...
+Flash Program Done: 1714 bytes programmed.
+Checksum:0x61de
+Flash Verify Done: 1714 bytes verified.
+Build target 'Target 1'
+compiling main.c...
+linking...
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?SENDADC2?MAIN
+Program Size: data=87.2 xdata=0 code=1714
+creating hex file from "transmit1"...
+"transmit1" - 0 Error(s), 1 Warning(s).
